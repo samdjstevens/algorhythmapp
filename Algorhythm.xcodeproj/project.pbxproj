@@ -15,6 +15,8 @@
 		38C76C871B2C3CEB00DD353B /* AlgorhythmTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C76C861B2C3CEB00DD353B /* AlgorhythmTests.swift */; };
 		38C76C921B2C3CEC00DD353B /* AlgorhythmUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C76C911B2C3CEC00DD353B /* AlgorhythmUITests.swift */; };
 		38C76CA01B2C3F5400DD353B /* PlaylistDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C76C9F1B2C3F5400DD353B /* PlaylistDetailViewController.swift */; };
+		38C76CA21B2C4C9000DD353B /* MusicLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C76CA11B2C4C9000DD353B /* MusicLibrary.swift */; };
+		38C76CA41B2C4D8300DD353B /* Playlist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C76CA31B2C4D8300DD353B /* Playlist.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		38C76C911B2C3CEC00DD353B /* AlgorhythmUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorhythmUITests.swift; sourceTree = "<group>"; };
 		38C76C931B2C3CEC00DD353B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		38C76C9F1B2C3F5400DD353B /* PlaylistDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaylistDetailViewController.swift; sourceTree = "<group>"; };
+		38C76CA11B2C4C9000DD353B /* MusicLibrary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicLibrary.swift; sourceTree = "<group>"; };
+		38C76CA31B2C4D8300DD353B /* Playlist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Playlist.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				38C76C731B2C3CEB00DD353B /* PlaylistMasterViewController.swift */,
 				38C76C9F1B2C3F5400DD353B /* PlaylistDetailViewController.swift */,
 				38C76C751B2C3CEB00DD353B /* Main.storyboard */,
+				38C76CA11B2C4C9000DD353B /* MusicLibrary.swift */,
+				38C76CA31B2C4D8300DD353B /* Playlist.swift */,
 				38C76C781B2C3CEB00DD353B /* Assets.xcassets */,
 				38C76C7A1B2C3CEB00DD353B /* LaunchScreen.storyboard */,
 				38C76C7D1B2C3CEB00DD353B /* Info.plist */,
@@ -261,6 +267,8 @@
 				38C76CA01B2C3F5400DD353B /* PlaylistDetailViewController.swift in Sources */,
 				38C76C741B2C3CEB00DD353B /* PlaylistMasterViewController.swift in Sources */,
 				38C76C721B2C3CEB00DD353B /* AppDelegate.swift in Sources */,
+				38C76CA21B2C4C9000DD353B /* MusicLibrary.swift in Sources */,
+				38C76CA41B2C4D8300DD353B /* Playlist.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
